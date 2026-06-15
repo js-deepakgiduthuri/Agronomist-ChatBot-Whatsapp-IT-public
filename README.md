@@ -37,14 +37,17 @@ The AI persona is a warm, knowledgeable Italian agronomist — not a generic cha
 
 ## 📸 Screenshots
 
-### Web Chat Interface
-![Web Chat Interface](assets/web-chat.png)
+### Web Login
+![Web Login](assets/web-login.png)
+
+### Web Onboarding
+![Web Onboarding](assets/web-onboarding.png)
+
+### WhatsApp Onboarding
+![WhatsApp Onboarding](assets/whatsapp-onboarding.png)
 
 ### WhatsApp Conversation Flow
-![WhatsApp Flow](assets/whatsapp-flow.png)
-
-### Onboarding Flow
-![Onboarding](assets/onboarding.png)
+*Screenshot coming soon*
 
 ---
 
