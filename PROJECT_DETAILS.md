@@ -41,6 +41,8 @@ The goal was to build an AI assistant that:
 
 The system was designed, built, deployed, and tested as a fully working product on Google Cloud Platform.
 
+**The system passed real-world validation:** it ran live for **3 months** on Google Cloud Run, used by **30+ real Italian farmers** across both WhatsApp and the web interface. All core features — disease diagnosis, treatment planning, image analysis, GDPR onboarding, and conversation persistence — were exercised under real conditions and held up without critical failures. The pilot was decommissioned after its successful completion, not due to technical issues.
+
 ---
 
 ## 2. What the System Does — User Perspective
